@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/React_SignUp_Form/static/css/main.8f7f3157.chunk.css",
+    "main.js": "/React_SignUp_Form/static/js/main.c59e1b7e.chunk.js",
+    "main.js.map": "/React_SignUp_Form/static/js/main.c59e1b7e.chunk.js.map",
+    "runtime-main.js": "/React_SignUp_Form/static/js/runtime-main.12f4b608.js",
+    "runtime-main.js.map": "/React_SignUp_Form/static/js/runtime-main.12f4b608.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/React_SignUp_Form/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bc9ed8b4.chunk.js": "/React_SignUp_Form/static/js/2.bc9ed8b4.chunk.js",
+    "static/js/2.bc9ed8b4.chunk.js.map": "/React_SignUp_Form/static/js/2.bc9ed8b4.chunk.js.map",
+    "index.html": "/React_SignUp_Form/index.html",
+    "precache-manifest.d4524b5f7f7ee5d132c7ba9a14a45c42.js": "/React_SignUp_Form/precache-manifest.d4524b5f7f7ee5d132c7ba9a14a45c42.js",
+    "service-worker.js": "/React_SignUp_Form/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/React_SignUp_Form/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.8f7f3157.chunk.css.map": "/React_SignUp_Form/static/css/main.8f7f3157.chunk.css.map",
+    "static/js/2.bc9ed8b4.chunk.js.LICENSE.txt": "/React_SignUp_Form/static/js/2.bc9ed8b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12f4b608.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.bc9ed8b4.chunk.js",
+    "static/css/main.8f7f3157.chunk.css",
+    "static/js/main.c59e1b7e.chunk.js"
+  ]
+}
